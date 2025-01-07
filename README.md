@@ -24,6 +24,5 @@ A Java-based bookstore inventory and member management system that allows users 
 
 ## How to Run
 
-1. Clone or download the repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/BookstoreSystem.git
+1. bash Copy code git clone
+   git clone https://github.com/Khushal06/BookstoreSystem.git
