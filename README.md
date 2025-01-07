@@ -27,31 +27,30 @@ A Java-based bookstore inventory and member management system that allows users 
 1. bash Copy code git clone
    git clone https://github.com/Khushal06/BookstoreSystem.git
 
-- **Menu Options**:
-- When you run the program, you will see the following options:
+## Menu Options
 
-- **MAdd a Book**:
+- **Add a Book**:
 - Allows you to add a new book to the inventory by entering the book's title, author, price, and quantity.
 
-- **MAdd a CD**:
+- **Add a CD**:
 Allows you to add a new CD to the inventory by entering the CD's title, artist, price, and quantity.
 
-- **MAdd a DVD**:
+- **Add a DVD**:
 Allows you to add a new DVD to the inventory by entering the DVD's title, director, price, and quantity.
 
-- **MAdd a Member**:
+- **Add a Member**:
 - Lets you register a new member by entering their name and email.
 - Optionally, mark them as a premium member and specify their payment method.
 
-- **MMake a Purchase**:
+- **Make a Purchase**:
 - Enables a member to purchase items from the inventory by selecting the type (book/CD/DVD) and the item's title.
 - Automatically updates the inventory and tracks the member's spending.
   
-- **MView Members**:
+- **View Members**:
 - Displays all registered members along with their details, including their total spending.
 
-- **MView Inventory**:
+- **View Inventory**:
 - Shows the inventory list of all available books, CDs, and DVDs with their details.
 
-- **MExit**:
+- **Exit**:
 - Exits the application gracefully with a farewell message.
